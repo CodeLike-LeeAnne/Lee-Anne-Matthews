@@ -1,0 +1,50 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.3/font/bootstrap-icons.css");
+h1{
+    font-size: xx-large;
+    color: blueviolet;
+    text-align: center;
+    text-decoration: underline;
+}
+
+h3{
+    color: blueviolet;
+    text-decoration: underline;
+    text-align: center;
+    font-style: italic;
+}
+
+img{
+    border-style: double;
+    border-color: blueviolet;
+    border-radius: 22px;
+}
+
+.image{
+    text-align: center;
+}
+
+.page{
+    border-style: double;
+    border-color: aqua;
+    background-color: burlywood;
+}
+
+.input{
+    text-align: center;
+}
+
+input{
+    border-style: solid;
+    border-color: black;
+    text-align: center;
+    padding: 15px 24px;
+}
+
+.okayy{
+background-image: url(./body2.jpg);
+}
+
+.kopl{
+    text-align: center;
+    
+}
